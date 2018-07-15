@@ -21,7 +21,8 @@ def bonus
   }
 
 def bonus
-  epic_tragedy[:montague]
+  epic_tragedy[:montague].each do 
+    if 
   
 
   epic_tragedy
