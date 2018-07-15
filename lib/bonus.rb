@@ -20,9 +20,9 @@ def bonus
    }
   }
 
-def bonus
- epic_tragedy.each do |family, member|
-   :montague.each do |character, attribute|
+epic_tragedy.each do |family, member|
+  :montague.each do |character, details|
+    
       
   
 
