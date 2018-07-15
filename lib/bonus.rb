@@ -20,8 +20,8 @@ def bonus
    }
   }
 
-epic_tragedy.each do |family, member|
-  :montague.each do |character, details|
+epic_tragedy[:montague][:hero][:status] = "dead"
+epic_tragedy[:capulet][:heroine][:status] = "dead"
     
       
   
