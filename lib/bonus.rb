@@ -22,7 +22,7 @@ def bonus
 
 def bonus
   epic_tragedy[:montague].each do 
-    if 
+    epic_tragedy.update 
   
 
   epic_tragedy
