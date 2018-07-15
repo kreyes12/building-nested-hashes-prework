@@ -21,8 +21,7 @@ def bonus
   }
 
 def bonus
-  epic_tragedy[:montague].each do |character, details|
-    character.each do |key, value|
+ epic_tragedy.each do 
       
   
 
