@@ -21,7 +21,7 @@ def bonus
   }
 
 def bonus
- epic_tragedy.each do 
+ epic_tragedy.each do |family, members|
       
   
 
